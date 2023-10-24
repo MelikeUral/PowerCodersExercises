@@ -1,4 +1,7 @@
-/*Translate days of the week
+/*
+EXERCISE 1
+
+Translate days of the week
 For each single day of the week log the translated output
 e.g. if it is Monday, log "Montag" and so on
 Choose any language you like
@@ -49,9 +52,10 @@ if(weekDay==="monday"){
 }else{
     alert("please enter the name of a day ");
 }*/
+/*
+EXERCISE 2
 
-
-/*Odd / even reporter
+Odd / even reporter
 Prompt for a number between 0 and 20.
 Check if the given number is even or odd.
 Report the result to the screen (e.g. "2 is even").
@@ -67,7 +71,11 @@ if (usersNumber%2==0){
 }*/
 
 
-/*Odd / even reporter 2.0
+/*
+
+EXERCISE 3
+
+Odd / even reporter 2.0
 Write a for loop that will iterate from 0 to 20.
 For each iteration, it will check if the current number is even or odd.
 Report the result to the screen (e.g. "2 is even").
@@ -88,7 +96,11 @@ for(number=0; number<=20; number++){
     }
 }*/
 
-/*Multiplication tables
+/*
+
+EXERCISE 4
+
+Multiplication tables
 Prompt for a number between 0 and 10.
 Multiply the given number by 9.
 Log the result (e.g. "2 * 9 = 18").
@@ -98,12 +110,16 @@ let result = number*9;
 console.log(`${number} * 9 = ${result}`);*/
 
 
-/*Multiplication tables 2.0
+/*
+
+EXERCISE 5
+
+Multiplication tables 2.0
 Write a for loop that will iterate from 0 to 10.
 For each iteration of the for loop, it will multiply the number by 9.
 Log the result (e.g. "2 * 9 = 18").
 Work on your project
-© 2023 Powercoders | open pdf*/
+© 2023 Powercoders | open pdf
 
 let number =0;
 
@@ -112,3 +128,4 @@ for(number=0; number<=10; number++){
     console.log(`${number} * 9 = ${result}`);
     }
 
+*/

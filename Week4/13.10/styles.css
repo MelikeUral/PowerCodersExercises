@@ -1,0 +1,28 @@
+.profile-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+    
+    
+}
+
+.profile-card img {
+    max-width: 100px;
+}
+
+.more-info {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+}
+
+#class-page {
+    display: flex;
+    align-items: center;
+    justify-content: center; }
